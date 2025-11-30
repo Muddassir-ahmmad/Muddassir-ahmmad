@@ -38,18 +38,29 @@ Welcome to my corner of GitHub — where I turn caffeine, curiosity, and questio
 (These update automatically when you add GitHub’s stat widgets)
 
 ```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muddassir-ahmmad/&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muddassir-ahmmad/&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muddassir-ahmmad&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muddassir-ahmmad&layout=compact&theme=tokyonight)
+
 ```
-
-Replace `YOUR_USERNAME` with your actual GitHub username.
-
----
-
 ## 🛠️ Featured Projects
 
-Coming soon… loading like a student’s assignment on the last night before submission 😅
-(Share your repo links when ready — I’ll format this section to look premium.)
+📚 Student Report System (In Development)
+
+A full-stack style project built using C++ as the backend engine and HTML/CSS for the UI layer.
+Currently building out:
+
+🔐 Student data creation, search, and update modules
+
+📄 JSON-based data storage pipeline
+
+🌐 Interactive HTML front-end connected with C++ processing
+
+⚙️ Scalable structure for future features like authentication & admin panel
+
+Goal: Deliver a fully functional web-style student management workflow powered by a C++ backend.
+
+This one’s still cooking — shipping incremental commits as I build.
 
 ---
 
