@@ -35,12 +35,13 @@ Welcome to my corner of GitHub — where I turn caffeine, curiosity, and questio
 
 ## 📈 GitHub Stats
 
-(These update automatically when you add GitHub’s stat widgets)
 
 ```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muddassir-ahmmad&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muddassir-ahmmad&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muddassir-ahmmad&theme=tokyonight)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muddassir-ahmmad&theme=tokyonight)
+
 
 ```
 ## 🛠️ Featured Projects
