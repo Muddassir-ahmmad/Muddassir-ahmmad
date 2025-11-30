@@ -1,12 +1,59 @@
-- 👋 Hi, I’m @Muddassir-ahmmad
-- 👀 I’m interested in ...writing codes
-- 🌱 I’m currently learning ...fullstack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...just hit me up
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hey, I’m **Mudassir**
 
-<!---
-Muddassir-ahmmad/Muddassir-ahmmad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### *Aspiring Full-Stack Engineer | CS Student | Builder-in-Progress*
+
+Welcome to my corner of GitHub — where I turn caffeine, curiosity, and questionable decisions into working code.
+
+---
+
+## 🚀 About Me
+
+* 🎓 Second-year Computer Science student at sahyadri colllege of engineering and managment
+* 💻 Currently leveling up in **C++**, **JavaScript**, **Node.js**, and modern web dev
+* 📚 Strengthening fundamentals in **DSA** & **backend architecture**
+* 🛠️ Passionate about shipping clean, scalable, and maintainable code
+* 🤝 Always open to collaborations, feedback loops, and brain-storm sessions
+
+---
+
+## 🧠 Current Focus Areas
+
+* Building full-stack projects
+* Creating backend workflows using JSON, APIs, and Node.js
+* Writing algorithms that actually work on the first try (a dream, honestly)
+* Becoming fluent in Git & GitHub ops
+
+---
+
+## 📦 Tech Stack
+
+**Languages:** C++, JavaScript, HTML, CSS
+**Tools:** Git, GitHub, VS Code
+**Learning:** Node.js, Express, MongoDB, React (soon™)
+
+---
+
+## 📈 GitHub Stats
+
+(These update automatically when you add GitHub’s stat widgets)
+
+```md
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muddassir-ahmmad/&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muddassir-ahmmad/&layout=compact&theme=tokyonight)
+```
+
+Replace `YOUR_USERNAME` with your actual GitHub username.
+
+---
+
+## 🛠️ Featured Projects
+
+Coming soon… loading like a student’s assignment on the last night before submission 😅
+(Share your repo links when ready — I’ll format this section to look premium.)
+
+---
+
+## 📫 Connect With Me
+
+You can find me coding, debugging, or wondering why my code worked “accidentally.”
+Feel free to explore, fork, or reach out.
