@@ -8,8 +8,8 @@ Welcome to my corner of GitHub — where I turn caffeine, curiosity, and questio
 
 ## 🚀 About Me
 
-* 🎓 Second-year Computer Science student at sahyadri colllege of engineering and managment
-* 💻 Currently leveling up in **C++**, **JavaScript**, **Node.js**, and modern web dev
+* 🎓 Third-year Computer Science student at sahyadri colllege of engineering and managment
+* 💻 Currently leveling up in **java**, **JavaScript**, **Node.js**, and modern web dev
 * 📚 Strengthening fundamentals in **DSA** & **backend architecture**
 * 🛠️ Passionate about shipping clean, scalable, and maintainable code
 * 🤝 Always open to collaborations, feedback loops, and brain-storm sessions
